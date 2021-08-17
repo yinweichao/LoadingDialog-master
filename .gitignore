@@ -9,5 +9,5 @@
 .externalNativeBuild
 /.idea
 .idea
-.gradles
+/.gradles
 
