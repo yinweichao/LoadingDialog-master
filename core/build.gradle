@@ -47,7 +47,7 @@ project.afterEvaluate {
                 // You can then customize attributes of the publication as shown below.
                 groupId = 'io.github.yinweichao'
                 artifactId = 'loading-dialog'
-                version = '1.0.6'
+                version = '1.0.7'
             }
             // Creates a Maven publication called “debug”.
             debug(MavenPublication) {
@@ -56,7 +56,7 @@ project.afterEvaluate {
 
                 groupId = 'io.github.yinweichao'
                 artifactId = 'loading-dialog-debug'
-                version = '1.0.6'
+                version = '1.0.7'
             }
         }
     }

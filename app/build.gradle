@@ -37,6 +37,4 @@ dependencies {
 //    implementation project(':core')
 //    implementation 'com.szzt.widget:loadingdialog:1.0.0'
 }
-repositories {
-    mavenCentral()
-}
+
